@@ -95,7 +95,7 @@ function Contact() {
       <ul>
         <li><a href="mailto:htdat.contact@gmail.com">htdat.contact@gmail.com</a></li>
         <li><a href="https://github.com/dzhoz0">github.com/dzhoz0</a></li>
-        <li><a href={`${import.meta.env.BASE_URL}cv-1.pdf`}>View my CV</a></li>
+        <li><a href={`${import.meta.env.BASE_URL}cv.pdf`}>View my CV</a></li>
       </ul>
     </>
   );
