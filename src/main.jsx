@@ -81,7 +81,6 @@ function About() {
         <li><strong>Web and mobile:</strong> React, Next.js, TanStack Start, Nuxt, Expo, and Tailwind CSS. I build interfaces for event registration, commerce, games, and mobile device control.</li>
         <li><strong>Backend and data:</strong> Node.js, Elysia, PostgreSQL, Supabase, Drizzle ORM, Redis, and Cloudflare Workers and D1. My experience includes authentication, payment integration, APIs, and data storage.</li>
         <li><strong>Infrastructure and tools:</strong> Linux, Git, Docker, and CI/CD. At TGB, I work on production website operations and procedures that support reliable services.</li>
-        <li><strong>Connected devices:</strong> Bluetooth communication between an Expo app and an ESP32-S3 diffuser, including device controls.</li>
       </ul>
     </>
   );
